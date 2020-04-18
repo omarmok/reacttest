@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 
 export const StyledNavavbar = styled.div`
-background: red;
+background: #fff;
 `;
 
 

@@ -4,19 +4,22 @@
             "id": 1,
             "image": "../images/cat.jpg",
             "title": "cat",
-            "description": "catcatcatcatcatcatcatcatcatcatcatcatcatcatcat"
+            "description": "catcatcatcatcatcatcatcatcatcatcatcatcatcatcat",
+            "link": "https://www.housing.gov.sa/"
         },
         {
             "id": 2,
             "image": "../images/lion.jpg",
             "title": "lion",
-            "description": "lionlionlionlionlionlionlionlionlionlion"
+            "description": "lionlionlionlionlionlionlionlionlionlion",
+            "link": "https://www.housing.gov.sa/"
         },
         {
             "id": 3,
             "image": "../images/bird.jpg",
             "title": "bird",
-            "description": "birdbirdbirdbirdbirdbirdbirdbirdbirdbird"
+            "description": "birdbirdbirdbirdbirdbirdbirdbirdbirdbird",
+            "link": "https://www.housing.gov.sa/"
         }
     ],
     "users": [

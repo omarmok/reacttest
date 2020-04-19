@@ -24,7 +24,9 @@ body {
 
 a {
   color: #000;
-  font-weight: 600;
+  transition: transition-duration, 0.5s ease;
+  text-decoration: none !important;
+  cursor: pointer;
 }
 
 ul {

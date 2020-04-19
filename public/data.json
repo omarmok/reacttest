@@ -1,0 +1,42 @@
+{
+    "slider": [
+        {
+            "id": 1,
+            "image": "../images/cat.jpg",
+            "title": "cat",
+            "description": "catcatcatcatcatcatcatcatcatcatcatcatcatcatcat"
+        },
+        {
+            "id": 2,
+            "image": "../images/lion.jpg",
+            "title": "lion",
+            "description": "lionlionlionlionlionlionlionlionlionlion"
+        },
+        {
+            "id": 3,
+            "image": "../images/bird.jpg",
+            "title": "bird",
+            "description": "birdbirdbirdbirdbirdbirdbirdbirdbirdbird"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "image": "../images/omar.jpg",
+            "Job": "Front End Developer",
+            "description": "test"
+        },
+        {
+            "id": 2,
+            "image": "../images/saudiman.jpg",
+            "Job": "Developer",
+            "description": "test"
+        },
+        {
+            "id": 3,
+            "image": "../images/abou.jpg",
+            "Job": "عم الناس",
+            "description": "عم الناس برضه"
+        }
+    ]
+}

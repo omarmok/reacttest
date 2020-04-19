@@ -1,6 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom'
-
 import { FooterStyle, FooterLogo, FooterUl, FooterListItem, ListItemAnchor } from './style.js'
 import FooterLogoimage from '../../images/moh-logo-footer.svg'
 

@@ -12,7 +12,7 @@ import Usres from '../Usres';
 
 function Index() {
     return (
-        <div className="Index">
+        <div className="Index mt-5">
             <Home />
             <Usres />
             <Portofolio />

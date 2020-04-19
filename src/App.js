@@ -14,7 +14,7 @@ import Contact from './Components/Contact'
 
 function App() {
   return (
-    <div className="App">
+    <div className="App text-center ">
       <BrowserRouter>
         <Navbar />
         <Route exact path='/' component={Index} />

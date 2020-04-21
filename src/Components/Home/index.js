@@ -13,7 +13,7 @@ class Home extends Component {
     slider: [],
   };
   componentDidMount() {
-    axios.get("../../data.json").then((res) => {
+    axios.get("https://api.npoint.io/0473f0b47d3df14c9665").then((res) => {
       this.setState({ slider: res.data.slider });
     });
   }

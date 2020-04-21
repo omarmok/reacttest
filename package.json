@@ -9,6 +9,7 @@
     "bootstrap": "^4.4.1",
     "infinite-react-carousel": "^1.2.11",
     "react": "^16.13.1",
+    "react-bootstrap": "^1.0.0",
     "react-bootstrap-carousel": "^4.0.5",
     "react-dom": "^16.13.1",
     "react-is": "^16.13.1",
